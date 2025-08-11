@@ -1,0 +1,8 @@
+#chester1 {height: 200px;
+width: 200px;
+position: relative;
+left: 50px;
+border: 8px solid black;
+border-radius: 25%;
+float: right;
+}
